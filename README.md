@@ -7,7 +7,7 @@ today’s environment however a lot of companies still do not use any type of ma
 these models have been proven difficult to deploy.
 
 ## Solution
-The chosen solution to combat this problem is to build a Sentiment Analysis Model that can be deployed to 
+The chosen solution to combat this problem is to build a Sentiment Analysis Model using Python which can be deployed to 
 quickly identity the emotional tone of a given text or article.
 
 There are two main ways that a sentiment analysis model can be modelled on, Statistical or Neural 
