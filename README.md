@@ -14,7 +14,7 @@ There are two main ways that a sentiment analysis model can be modelled on, Stat
 Language Models. I choose to build my project model on a neural network model which makes use of Long 
 Short Term Memory (LSTM) because it consistently outperforms statistical methods when predicting the 
 outcome of a known text and neural networks exhibits better out of the box sample predictive accuracy 
-than statistical models (Patricia M. West 387). The neural network will be trained on data set taken from the [Kaggle Website](sentiment-analysis-on-financial-tweets/tweet_sentiment) which has a total of 21995 unique values with a numeric sentiment values. 
+than statistical models (Patricia M. West 387). The neural network will be trained on data set taken from the [Kaggle Website](https://www.kaggle.com/datasets/vivekrathi055/sentiment-analysis-on-financial-tweets) which has a total of 21995 unique values with a numeric sentiment values. 
 
 ## Project Pipeline
 
